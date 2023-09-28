@@ -36,6 +36,7 @@
 * [Express - v4.18.2](https://expressjs.com/)
 * [Node.js - v20.7.0](https://nodejs.org/en)
 * [Nodemon - v3.0.1](https://nodemon.io/)
+* [Winston - v3.10.0](https://github.com/winstonjs/winston)
 
 
 &nbsp;
