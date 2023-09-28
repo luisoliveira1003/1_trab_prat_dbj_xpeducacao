@@ -1,0 +1,16 @@
+{
+  "name": "1_trab_prat",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
